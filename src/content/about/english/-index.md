@@ -38,13 +38,6 @@ members:
     role: "Numerologist"
     image: "/images/empress.jpg"
     bio: "Empress specializes in numerical and conceptual remote viewing, providing expert analysis for corporate, financial, and legal sectors. For private individuals, she offers tailored life path mapping through advanced pattern recognition. Utilizing these protocols, she distills complex technical data into precise insights and surgical strategies."
-    social:
-      - name: "instagram"
-        icon: "FaInstagram"
-        link: "https://www.instagram.com/thesensualtraveller/"
-      - name: "threads"
-        icon: "FaThreads"
-        link: "https://www.threads.com/@thesensualtraveller"
   - name: "Astra"
     role: "Energy Reader"
     image: "/images/astra.jpg"

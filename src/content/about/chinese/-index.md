@@ -38,13 +38,6 @@ members:
     role: "數字命理師"
     image: "/images/empress.jpg"
     bio: "Empress 專精於數字與概念性的遙視觀測，為企業、金融及法律機構提供專業分析。針對私人客戶，她透過進階模式識別提供客製化的人生道路地圖。運用這些技術，她將複雜的數據轉化為精準的洞察與策略。"
-    social:
-      - name: "instagram"
-        icon: "FaInstagram"
-        link: "https://www.instagram.com/thesensualtraveller/"
-      - name: "threads"
-        icon: "FaThreads"
-        link: "https://www.threads.com/@thesensualtraveller"
   - name: "Astra"
     role: "能量解讀師"
     image: "/images/astra.jpg"
